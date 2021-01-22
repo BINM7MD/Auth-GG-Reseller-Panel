@@ -115,7 +115,7 @@ namespace ResellerPanelAuthGG
 
                             dcWeb.ProfilePicture = "https://www.pngfind.com/pngs/m/10-109569_shield-logo-png-logo-agent-of-shield-transparent.png";
                             dcWeb.UserName = "Agent Log";
-                            dcWeb.WebHook = "https://discord.com/api/webhooks/802099727339356201/N1Np-LMSRERdHM5KKWYzC_XFQAi6u3N_vsguvM5uwxo1DzE-i-tKNoXBXgumNgtWQL8w";
+                            dcWeb.WebHook = "YOURWEBHOOK HERE"";
                             dcWeb.SendMessage("```css" + Environment.NewLine + $"Agent : {User.Username}" + Environment.NewLine + $"Agent Balance : {User.UserVariable}" + Environment.NewLine + $"Agent Current time : {DateTime.Now}" + Environment.NewLine +  $"Generated Key : {output.Text}" + Environment.NewLine + "```");
                         }
                     }
