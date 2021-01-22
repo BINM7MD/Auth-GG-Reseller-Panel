@@ -1,0 +1,15 @@
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\bin\Debug\ResellerPanelAuthGG.exe.config
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\bin\Debug\ResellerPanelAuthGG.exe
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\bin\Debug\ResellerPanelAuthGG.pdb
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\bin\Debug\Siticone.UI.dll
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\obj\Debug\ResellerPanelAuthGG.登录表单.resources
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\obj\Debug\ResellerPanelAuthGG.Properties.Resources.resources
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\obj\Debug\ResellerPanelAuthGG.csproj.GenerateResource.cache
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\obj\Debug\ResellerPanelAuthGG.csproj.CoreCompileInputs.cache
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\obj\Debug\ResellerPanelAuthGG.csproj.CopyComplete
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\obj\Debug\ResellerPanelAuthGG.exe
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\obj\Debug\ResellerPanelAuthGG.pdb
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\obj\Debug\ResellerPanelAuthGG.发电机.resources
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\obj\Debug\ResellerPanelAuthGG.csprojAssemblyReference.cache
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HKS-Peformance\source\repos\ResellerPanelAuthGG\ResellerPanelAuthGG\bin\Debug\Newtonsoft.Json.xml
